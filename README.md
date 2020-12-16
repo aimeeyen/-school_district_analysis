@@ -27,11 +27,13 @@ Prior on replacing data:
  - Deline in success rate during Holiday season: 4th of July, Thanksgiving and Christmas
  - Low performing month Nov-Dec, maybe signifiy lower purchasing power during Holiday seasons
  - The two variances Failed and Successful Outcomes, are in positive correlation. 
-***Reading Score:***
+***School Type:***
 
-![Reading Score by grade](https://github.com/aimeeyen/school_district_analysis/blob/main/Reading%20Score%20by%20Grade.png)
+![School Type](https://github.com/aimeeyen/school_district_analysis/blob/main/School%20Type.png)
 
-***Reading Score with NaN Data Exculsion:***
+***School Type with NaN Data Exculsion:***
+![School Type with NaN](https://github.com/aimeeyen/school_district_analysis/blob/main/School%20Type%20After%20Data%20Exclusion.png)
+
 
 ![Reading Score by grade with Nan](https://github.com/aimeeyen/school_district_analysis/blob/main/Reading%20Score%20by%20Grade%20After%20Data%20Exclusion.png)
 
