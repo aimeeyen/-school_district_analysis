@@ -9,33 +9,20 @@ Provide high-level snapshot summary of student's performance, to discover trends
 ## Analysis and Challenges
 
 
-Thomas High Shcool: 
-Prior on replacing data: 
-
-
 ### Analysis of Outcomes with NaN Data Exclusion
 
 ***Math Score:***
 
 ![Math Score](https://github.com/aimeeyen/school_district_analysis/blob/main/Math%20Score%20by%20Grade.png)
 
-***Math Score with NaN Data Exclusion:***
 
-![Math Score with Data Exlucsion](https://github.com/aimeeyen/school_district_analysis/blob/main/Math%20Score%20by%20Grade%20with%20Data%20Exculsion.png)
+***Top 5 Schools:***
+![Top 5 school](https://github.com/aimeeyen/school_district_analysis/blob/main/Top%205%20Performaning%20School.png)
  - Highest performning month: May (Memorial and Mother's day) Also Feburary (Valentine)
  - Decline in success rate during School break: Spring, Summer, and Winter Break
- - Deline in success rate during Holiday season: 4th of July, Thanksgiving and Christmas
- - Low performing month Nov-Dec, maybe signifiy lower purchasing power during Holiday seasons
- - The two variances Failed and Successful Outcomes, are in positive correlation. 
-***School Type:***
 
-![School Type](https://github.com/aimeeyen/school_district_analysis/blob/main/School%20Type.png)
-
-***School Type with NaN Data Exculsion:***
-![School Type with NaN](https://github.com/aimeeyen/school_district_analysis/blob/main/School%20Type%20After%20Data%20Exclusion.png)
-
-
-![Reading Score by grade with Nan](https://github.com/aimeeyen/school_district_analysis/blob/main/Reading%20Score%20by%20Grade%20After%20Data%20Exclusion.png)
+***Top 5 Schools with NaN Data Exclusion:***
+![Top 5 school with NaN](https://github.com/aimeeyen/school_district_analysis/blob/main/Top%20Performaning%20with%20Data%20Exculsion%20.png)
 
 ### District Summary before vs after data exclusion
 
@@ -50,6 +37,12 @@ Prior on replacing data:
  - After $45K goal, a steep decline of success rate
  - Between $35K to $45K, seemed to be the most stable performating goal setting.  
  
+***School Type:***
+
+![School Type](https://github.com/aimeeyen/school_district_analysis/blob/main/School%20Type.png)
+
+***School Type with NaN Data Exculsion:***
+![School Type with NaN](https://github.com/aimeeyen/school_district_analysis/blob/main/School%20Type%20After%20Data%20Exclusion.png)
 
 # Results
 
