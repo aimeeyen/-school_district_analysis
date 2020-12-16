@@ -15,17 +15,16 @@ Prior on replacing data:
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater_Outcomes_vs_Launch](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
  - Highest performning month: May (Memorial and Mother's day) Also Feburary (Valentine)
  - Decline in success rate during School break: Spring, Summer, and Winter Break
  - Deline in success rate during Holiday season: 4th of July, Thanksgiving and Christmas
  - Low performing month Nov-Dec, maybe signifiy lower purchasing power during Holiday seasons
  - The two variances Failed and Successful Outcomes, are in positive correlation. 
 
-### Analysis of Outcomes Based on Goals
+### District Summary before vs after data exclusion
 
 ![District Summary After Data](https://github.com/aimeeyen/school_district_analysis/blob/main/District%20Summary%20with%20Data%20Exclusion.png)
-![District Summary] (https://github.com/aimeeyen/school_district_analysis/blob/main/District%20Summary.png)
+![District Summary](https://github.com/aimeeyen/school_district_analysis/blob/main/District%20Summary.png)
  - Sucess rate tends to decreased as the fundraising goal inceases, hense a negative correlation 
  - At $15K, $35K and $44K have the equal percentage at around 50%.
  - After $45K goal, a steep decline of success rate
