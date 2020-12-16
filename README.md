@@ -13,20 +13,29 @@ Thomas High Shcool:
 Prior on replacing data: 
 
 
-### Analysis of Outcomes Based on Launch Date
+### Analysis of Outcomes with NaN Data Exclusion
 
+***Math Score:***
+![Math Score](https://github.com/aimeeyen/school_district_analysis/blob/main/Math%20Score%20by%20Grade.png)
+
+***Math Score with NaN Data Exclusion:***
+![Math Score with Data Exlucsion](https://github.com/aimeeyen/school_district_analysis/blob/main/Math%20Score%20by%20Grade%20with%20Data%20Exculsion.png)
  - Highest performning month: May (Memorial and Mother's day) Also Feburary (Valentine)
  - Decline in success rate during School break: Spring, Summer, and Winter Break
  - Deline in success rate during Holiday season: 4th of July, Thanksgiving and Christmas
  - Low performing month Nov-Dec, maybe signifiy lower purchasing power during Holiday seasons
  - The two variances Failed and Successful Outcomes, are in positive correlation. 
+***Reading Score:***
+![Reading Score by grade](https://github.com/aimeeyen/school_district_analysis/blob/main/Reading%20Score%20by%20Grade.png)
 
+***Reading Score with NaN Data Exculsion:***
+![Reading Score by grade with Nan](https://github.com/aimeeyen/school_district_analysis/blob/main/Reading%20Score%20by%20Grade%20After%20Data%20Exclusion.png)
 ### District Summary before vs after data exclusion
 
-District Summary:
+***District Summary:***
 ![District Summary](https://github.com/aimeeyen/school_district_analysis/blob/main/District%20Summary.png)
 
-With NaN Data Exclusion:
+***With NaN Data Exclusion:***
 ![District Summary After Data](https://github.com/aimeeyen/school_district_analysis/blob/main/District%20Summary%20with%20Data%20Exclusion.png)
 
  - Sucess rate tends to decreased as the fundraising goal inceases, hense a negative correlation 
