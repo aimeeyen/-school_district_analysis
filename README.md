@@ -38,7 +38,7 @@ Provide high-level snapshot summary of student's performance, to discover trends
 - ONLY a small .01 variance with data exclusion on % Passing Math, however % overall passing and % passing reading there's 0.04 variance, lowered than compared to pre-data exclsuion. 
 
 
-# Results
+## Results
 With data exlucsion for 9th grade at Thomas High School:
    - there's only slighest variance changes, lowered the % passing for math and reading on overall grade level. 
    - School size, spending and type did not change with data exclusion
