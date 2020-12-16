@@ -25,34 +25,21 @@ Provide high-level snapshot summary of student's performance, to discover trends
 
 ***With NaN Data Exclusion:***
 ![District Summary After Data](https://github.com/aimeeyen/school_district_analysis/blob/main/District%20Summary%20with%20Data%20Exclusion.png)
- - At high-level summary view, there's only ***slight variance*** after the data exlcusion, would be much more variance if summary were compared at 9th grade level alone.  
+- At high-level summary view, there's only ***slight variance*** after the data exlcusion, would be much more variance if summary were compared at 9th grade level alone.  
  
+## School Type Before vs After Data Exclusion 
+
 ***School Type:***
 ![School Type](https://github.com/aimeeyen/school_district_analysis/blob/main/School%20Type.png)
 
 ***School Type with NaN Data Exculsion:***
 ![School Type with NaN](https://github.com/aimeeyen/school_district_analysis/blob/main/School%20Type%20After%20Data%20Exclusion.png)
 
+- ONLY a small .01 variance with data exclusion on % Passing Math, however % overall passing and % passing reading there's 0.04 variance, lowered than compared to pre-data exclsuion. 
+
+
 # Results
-
-
-   - :x: Winter season: Dec - Feb is the ***worst*** time to launch campaign and in Jan has the ***highest*** canceled campaigns
-
-   - Both Failed and Successful campaign have positive correlations, signify that both variables were affected equally by the timing of launch date, seasonality: such as School break or Holiday season. 
-
-
-### - What can you conclude about the Outcomes based on Goals?
-   - :white_check_mark: :heavy_dollar_sign: Goal less than $5000 and between $35K to $44.9K shown the ***highest*** success rate
-   - :x: :heavy_dollar_sign: Goal between $45K and above have the ***lowest*** success rate
-
-
-
-### - What are some other possible tables and/or graphs that we could create?
-   - Chart of total duration (days) of Successful and Failed campaign vs launch date. Also it will be insightful visualization to draw 
-
-## Summary:
- - :x: :heavy_dollar_sign: Goal between $45K and above have the ***lowest*** success rate
- - :x: :heavy_dollar_sign: Goal between $45K and above have the ***lowest*** success rate
- - :x: :heavy_dollar_sign: Goal between $45K and above have the ***lowest*** success rate
- - :x: :heavy_dollar_sign: Goal between $45K and above have the ***lowest*** success rate
-
+With data exlucsion for 9th grade at Thomas High School:
+   - there's only slighest variance changes, lowered the % passing for math and reading on overall grade level. 
+   - School size, spending and type did not change with data exclusion
+   - However average math and reading score ***increased***. 
