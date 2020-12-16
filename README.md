@@ -3,10 +3,10 @@
 ## Overview of Project
 Overview of school district's key metrics, in term of school type, budget, spending summary per capita vs student’s academic performance. 
 
-### Purpose
+## Purpose
 Provide high-level snapshot summary of student's performance, to discover trends and correlation amongst key metrics.
 
-### Top 5 Schools Before & After Data Exlcusion 
+## Top 5 Schools Before & After Data Exlcusion 
 
 ***Top 5 Schools:***
 ![Top 5 school](https://github.com/aimeeyen/school_district_analysis/blob/main/Top%205%20Performaning%20School.png)
@@ -18,7 +18,7 @@ Provide high-level snapshot summary of student's performance, to discover trends
    ***higher*** reading average score
  - % overall passing, % passing math and % passing reading ***lowered***
 
-### District Summary Before vs After Data Exclusion
+## District Summary Before vs After Data Exclusion
 
 ***District Summary:***
 ![District Summary](https://github.com/aimeeyen/school_district_analysis/blob/main/District%20Summary.png)
@@ -35,10 +35,6 @@ Provide high-level snapshot summary of student's performance, to discover trends
 
 # Results
 
-### - What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-
-   - :white_check_mark: Summer season: May and June is the ***best*** time to launch campaign
 
    - :x: Winter season: Dec - Feb is the ***worst*** time to launch campaign and in Jan has the ***highest*** canceled campaigns
 
