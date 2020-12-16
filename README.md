@@ -6,18 +6,17 @@ Overview of school district's key metrics, in term of school type, budget, spend
 ### Purpose
 Provide high-level snapshot summary of student's performance, to discover trends and correlation amongst key metrics.
 
-## Analysis and Challenges
-
-
-### Analysis of Outcomes with NaN Data Exclusion
+## Analysis of Outcomes with NaN Data Exclusion
 
 ***Top 5 Schools:***
 ![Top 5 school](https://github.com/aimeeyen/school_district_analysis/blob/main/Top%205%20Performaning%20School.png)
 
 ***Top 5 Schools with NaN Data Exclusion:***
 ![Top 5 school with NaN](https://github.com/aimeeyen/school_district_analysis/blob/main/Top%20Performaning%20with%20Data%20Exculsion%20.png)
- - Highest performning month: May (Memorial and Mother's day) Also Feburary (Valentine)
- - Decline in success rate during School break: Spring, Summer, and Winter Break
+ - Top 5 school ranking stayed the same, with small fraciton 0.05~ variance: 
+   lower math average score
+   higher reading average score
+ - % overall passing, % passing math and reading ***lowered***
 
 ### District Summary before vs after data exclusion
 
