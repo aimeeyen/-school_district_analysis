@@ -11,18 +11,13 @@ Provide high-level snapshot summary of student's performance, to discover trends
 
 ### Analysis of Outcomes with NaN Data Exclusion
 
-***Math Score:***
-
-![Math Score](https://github.com/aimeeyen/school_district_analysis/blob/main/Math%20Score%20by%20Grade.png)
-
-
 ***Top 5 Schools:***
 ![Top 5 school](https://github.com/aimeeyen/school_district_analysis/blob/main/Top%205%20Performaning%20School.png)
- - Highest performning month: May (Memorial and Mother's day) Also Feburary (Valentine)
- - Decline in success rate during School break: Spring, Summer, and Winter Break
 
 ***Top 5 Schools with NaN Data Exclusion:***
 ![Top 5 school with NaN](https://github.com/aimeeyen/school_district_analysis/blob/main/Top%20Performaning%20with%20Data%20Exculsion%20.png)
+ - Highest performning month: May (Memorial and Mother's day) Also Feburary (Valentine)
+ - Decline in success rate during School break: Spring, Summer, and Winter Break
 
 ### District Summary before vs after data exclusion
 
@@ -38,7 +33,6 @@ Provide high-level snapshot summary of student's performance, to discover trends
  - Between $35K to $45K, seemed to be the most stable performating goal setting.  
  
 ***School Type:***
-
 ![School Type](https://github.com/aimeeyen/school_district_analysis/blob/main/School%20Type.png)
 
 ***School Type with NaN Data Exculsion:***
@@ -57,18 +51,17 @@ Provide high-level snapshot summary of student's performance, to discover trends
 
 
 ### - What can you conclude about the Outcomes based on Goals?
-
-   
    - :white_check_mark: :heavy_dollar_sign: Goal less than $5000 and between $35K to $44.9K shown the ***highest*** success rate
-
-
    - :x: :heavy_dollar_sign: Goal between $45K and above have the ***lowest*** success rate
-
 
 
 
 ### - What are some other possible tables and/or graphs that we could create?
    - Chart of total duration (days) of Successful and Failed campaign vs launch date. Also it will be insightful visualization to draw 
 
-## Conclusion: 
+## Summary:
+ - :x: :heavy_dollar_sign: Goal between $45K and above have the ***lowest*** success rate
+ - :x: :heavy_dollar_sign: Goal between $45K and above have the ***lowest*** success rate
+ - :x: :heavy_dollar_sign: Goal between $45K and above have the ***lowest*** success rate
+ - :x: :heavy_dollar_sign: Goal between $45K and above have the ***lowest*** success rate
 
