@@ -6,7 +6,7 @@ Overview of school district's key metrics, in term of school type, budget, spend
 ### Purpose
 Provide high-level snapshot summary of student's performance, to discover trends and correlation amongst key metrics.
 
-## Analysis of Outcomes with NaN Data Exclusion
+### Top 5 Schools Before & After Data Exlcusion 
 
 ***Top 5 Schools:***
 ![Top 5 school](https://github.com/aimeeyen/school_district_analysis/blob/main/Top%205%20Performaning%20School.png)
@@ -14,22 +14,18 @@ Provide high-level snapshot summary of student's performance, to discover trends
 ***Top 5 Schools with NaN Data Exclusion:***
 ![Top 5 school with NaN](https://github.com/aimeeyen/school_district_analysis/blob/main/Top%20Performaning%20with%20Data%20Exculsion%20.png)
  - Top 5 school ranking stayed the same, with small fraciton 0.05~ variance: 
-   lower math average score
-   higher reading average score
- - % overall passing, % passing math and reading ***lowered***
+   ***lower*** math average score
+   ***higher*** reading average score
+ - % overall passing, % passing math and % passing reading ***lowered***
 
-### District Summary before vs after data exclusion
+### District Summary Before vs After Data Exclusion
 
 ***District Summary:***
 ![District Summary](https://github.com/aimeeyen/school_district_analysis/blob/main/District%20Summary.png)
 
 ***With NaN Data Exclusion:***
 ![District Summary After Data](https://github.com/aimeeyen/school_district_analysis/blob/main/District%20Summary%20with%20Data%20Exclusion.png)
-
- - Sucess rate tends to decreased as the fundraising goal inceases, hense a negative correlation 
- - At $15K, $35K and $44K have the equal percentage at around 50%.
- - After $45K goal, a steep decline of success rate
- - Between $35K to $45K, seemed to be the most stable performating goal setting.  
+ - At high-level summary view, there's only ***slight variance*** after the data exlcusion, would be much more variance if summary were compared at 9th grade level alone.  
  
 ***School Type:***
 ![School Type](https://github.com/aimeeyen/school_district_analysis/blob/main/School%20Type.png)
