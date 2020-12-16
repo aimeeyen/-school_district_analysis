@@ -23,8 +23,12 @@ Prior on replacing data:
 
 ### District Summary before vs after data exclusion
 
-![District Summary After Data](https://github.com/aimeeyen/school_district_analysis/blob/main/District%20Summary%20with%20Data%20Exclusion.png)
+District Summary:
 ![District Summary](https://github.com/aimeeyen/school_district_analysis/blob/main/District%20Summary.png)
+
+With NaN Data Exclusion:
+![District Summary After Data](https://github.com/aimeeyen/school_district_analysis/blob/main/District%20Summary%20with%20Data%20Exclusion.png)
+
  - Sucess rate tends to decreased as the fundraising goal inceases, hense a negative correlation 
  - At $15K, $35K and $44K have the equal percentage at around 50%.
  - After $45K goal, a steep decline of success rate
